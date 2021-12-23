@@ -2,4 +2,4 @@
 
 for each item:
   display itemnum itemname onhand.
-end.
+end. /* for each item */
